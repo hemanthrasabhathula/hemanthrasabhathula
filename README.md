@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-- 🌐 6+ years of experience in web development
+- 💼 6+ years of experience in web development
 - 🛠️ Built production apps with React, Django, Spring Boot, Prisma
 - 🚀 Optimized APIs, integrated GraphQL & Redis, and implemented CI/CD
 - 📱 Built responsive mobile apps using React Native and Java.
