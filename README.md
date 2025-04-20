@@ -1,4 +1,4 @@
-# 👋 Hey, I'm [Hemanth Rasabhathula](https://www.hemanthrasabhathula.co.in)
+# 👋 Hey, I'm <a href="https://www.hemanthrasabhathula.co.in" target="_blank" rel="noopener noreferrer">Hemanth Rasabhathula</a>
 
 🎯 Full Stack Developer | 6+ Years of Experience  
 💻 React · Next.js · Java · Spring Boot · AWS · Python · PostgreSQL
